@@ -67,7 +67,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ItyGaur/ItyGaur/output/github-contribution-grid-snake.svg" />
+<img src="https://streak-stats.demolab.com?user=ItyGaur&theme=radical" />
 </p>
 
 ---
