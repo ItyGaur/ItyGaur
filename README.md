@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Developer;Machine+Learning+Learner;Future+Full+Stack+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Learner;AWS+Cloud+Certified;Always+Learning+New+Things" />
 </p>
 
 ---
